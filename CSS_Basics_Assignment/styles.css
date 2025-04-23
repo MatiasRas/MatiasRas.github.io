@@ -1,0 +1,30 @@
+.color-example{
+color:blue;
+background-color: #fdd687;
+border: 2px black;
+}
+
+.header-example {
+    font-size: 34px;
+    font-family: Arial, sans-serif;
+    color: darkgreen;
+}
+
+.list-example {
+    list-style-type: circle; 
+    color: orange;
+}
+
+.text-example {
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.div-example {
+    background-color: #e0f7fa;
+    border: 3px dashed teal;
+    padding: 10px;
+    margin-top: 20px;
+}
